@@ -1,2 +1,3 @@
 # first-pro
-this is my first repository project
+this is my first git repository 
+Author-Aryan chakraborty
