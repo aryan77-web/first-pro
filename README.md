@@ -1,7 +1,4 @@
-# first-pro
-#this is my first git repository 
-#<br>
-#Author-Aryan 
+ 
 import random
 '''
 1 for snake 
